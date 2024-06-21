@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fluxo-CI-CD/static/css/main.334c1bb3.css",
+    "main.js": "/Fluxo-CI-CD/static/js/main.548924e5.js",
+    "static/js/787.8eb42f38.chunk.js": "/Fluxo-CI-CD/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/Fluxo-CI-CD/index.html",
+    "main.334c1bb3.css.map": "/Fluxo-CI-CD/static/css/main.334c1bb3.css.map",
+    "main.548924e5.js.map": "/Fluxo-CI-CD/static/js/main.548924e5.js.map",
+    "787.8eb42f38.chunk.js.map": "/Fluxo-CI-CD/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.548924e5.js"
+  ]
+}
